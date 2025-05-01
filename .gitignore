@@ -1,0 +1,16 @@
+# Ignore sensitive information and files
+/app/google-services.json
+
+# Ignore Android build files
+/build/
+
+# Ignore local configuration files
+.idea/
+.vscode/
+
+# Ignore generated files
+*.log
+*.iml
+
+# Ignore Gradle files
+.gradle/
